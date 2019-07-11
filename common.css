@@ -80,7 +80,7 @@ dl.p_item dt {clear:both; font-weight: bold; border-right: 1px #d4af37 solid; he
 #container.set2{color:#d4af37; text-align:center; padding:50px 0;max-width:540px;overflow: hidden; margin:auto;}
 #container.set3{color:#d4af37; text-align:center; padding:0;max-width:540px;overflow: hidden; margin:auto;}
 #container.set4 {color: #d4af37;text-align: center;padding: 50px 0 0px 0;max-width: 540px;overflow: hidden;margin: auto;}
-#container.set5 {color: #d4af37;text-align: center;padding: 50px 0; max-width: 540px;overflow: hidden;margin: auto;}
+#container.set5 {color: #d4af37;text-align: center; max-width: 540px;overflow: hidden;margin: auto;}
 .hideme{ opacity:0;}
 
 #container .txt_box {margin:0 auto; }
